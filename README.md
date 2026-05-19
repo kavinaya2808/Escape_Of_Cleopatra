@@ -4,6 +4,9 @@ Escape of Cleopatra is a 2D adventure/horror platformer game set inside an ancie
 
 The game combines platforming, exploration, survival mechanics, and atmospheric horror elements to create a tense and immersive experience.
 
+<img width="400" height="250" alt="Screenshot 2026-05-19 at 2 38 39 PM" src="https://github.com/user-attachments/assets/30d0e04c-a62c-44ef-b2e0-32d53c101050" />
+<img width="400" height="250" alt="Screenshot 2026-05-19 at 2 32 21 PM" src="https://github.com/user-attachments/assets/89525a68-8ad9-48c0-bbcc-46c8f3aced73" />
+
 ---
 
 ## 🎮 Gameplay
@@ -14,6 +17,8 @@ The game combines platforming, exploration, survival mechanics, and atmospheric 
 - Survive the mummy chase after picking up keys
 - Manage torch light before darkness consumes you
 - Progress through increasingly difficult levels
+
+<img width="500" height="250" alt="Screenshot 2026-05-19 at 11 52 09 AM" src="https://github.com/user-attachments/assets/e9508f1e-667d-4a6f-a245-f3ac6736d498" />
 
 ---
 
