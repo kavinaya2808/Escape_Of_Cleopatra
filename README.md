@@ -9,7 +9,7 @@ The game combines platforming, exploration, survival mechanics, and atmospheric 
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - Control Cleopatra through dark pyramid chambers
 - Collect sacred keys to unlock new areas
@@ -22,7 +22,7 @@ The game combines platforming, exploration, survival mechanics, and atmospheric 
 
 ---
 
-## ✨ Features
+## Features
 
 - 2D platformer gameplay
 - Smart mummy AI chase system
@@ -36,7 +36,7 @@ The game combines platforming, exploration, survival mechanics, and atmospheric 
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 ### Game Engine
 - Unity Engine
@@ -56,7 +56,7 @@ The game combines platforming, exploration, survival mechanics, and atmospheric 
 
 ---
 
-## 🧠 How the Game Was Built
+## How the Game Was Built
 
 The project was developed step-by-step starting from a simple Unity prototype.
 
@@ -83,7 +83,7 @@ The project was developed step-by-step starting from a simple Unity prototype.
 
 ---
 
-## 👥 Team
+## Team
 
 - Elina Meier
 - Ariton Verush
@@ -95,7 +95,7 @@ Mentor:
 
 ---
 
-## ▶️ Play the Game
+## Play the Game
 
 https://kavinaya-kumarchokkappan.itch.io/escape-of-cleopatra
 
